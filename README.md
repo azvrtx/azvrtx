@@ -51,8 +51,3 @@ I am a passionate Fullstack Developer <img src="https://media.giphy.com/media/WU
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" heigth="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo DB" alt="Mongo DB" width="40" heigth="40"/>
 </div>
-
----
-
-### :fire: My Stats: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azvrtx&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
